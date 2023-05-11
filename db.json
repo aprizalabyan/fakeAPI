@@ -9,6 +9,26 @@
       "id": 2,
       "name": "Jose Mourinho",
       "telp": "087987625761"
+    },
+    {
+      "id": 3,
+      "name": "Pep Guardiola",
+      "telp": "081234889765"
+    },
+    {
+      "id": 4,
+      "name": "David Beckham",
+      "telp": "088091923834"
+    },
+    {
+      "id": 5,
+      "name": "Thomas Tuchel",
+      "telp": "082388904566"
+    },
+    {
+      "id": 6,
+      "name": "Carlo Anceloti",
+      "telp": "087898443567"
     }
   ]
 }
